@@ -3,7 +3,7 @@
 
 ## Analysis of the Indian Census 2011
 
-In this project, we'll work with data from the https://www.census2011.co.in , a compendium of statistics about all the states in India as of 2011  . It contains demographic information like:
+In this project, we'll work with data from the https://www.census2011.co.in , a compendium of statistics about all the states in India as of 2011  .
 
 In this project, we'll use SQL in Microsoft SQL Server Management Studio to explore and analyze data from this database.
 Database:
